@@ -1,5 +1,4 @@
-# PRODIGY_DS_03-Decision-Tree-Classifier
-# Task 03
+# Task-03
 # Decision Tree Classifier on Bank Marketing Datase
 This repository contains a project focused on implementing a Decision Tree Classifier using a bank marketing dataset. The dataset consists of customer information and is used to predict whether a customer will subscribe to a term deposit based on certain features.
 
